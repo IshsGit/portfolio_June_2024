@@ -55,6 +55,13 @@ body {
   font-family: var(--default-font);
 }
 
+.skill-text {
+  
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
 a {
   color: var(--accent-color);
   text-decoration: none;

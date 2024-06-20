@@ -994,6 +994,14 @@ section,
   height: auto;
 }
 
+.code-snippets > h2{
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid color-mix(in srgb, var(--default-color), transparent 85%);
+}
+
 .testimonials .swiper-pagination {
   margin-top: 40px;
   position: relative;

@@ -75,6 +75,11 @@ a:hover {
   text-decoration: none;
 }
 
+.resume-button{
+  font-size: 32px;
+  font-weight: 700;
+}
+
 h1,
 h2,
 h3,

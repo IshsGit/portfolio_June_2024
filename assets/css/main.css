@@ -238,6 +238,35 @@ h6 {
   margin-right: 10px;
 }
 
+/* Resume Section CSS */
+
+.resume-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.resume-text {
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-right: 10px;
+}
+
+.resume-download-button {
+  background-color: #007bff; /* Adjust to match the theme */
+  color: white;
+  border: none;
+  border-radius: 20px; /* Rounded edges */
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s;
+}
+
+.resume-download-button:hover {
+  background-color: #0056b3; /* Adjust to match the theme */
+}
+
+
 .navmenu a .toggle-dropdown,
 .navmenu a:focus .toggle-dropdown {
   font-size: 12px;
